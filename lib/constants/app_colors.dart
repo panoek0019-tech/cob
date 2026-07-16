@@ -6,7 +6,6 @@ Appcolos._();
 //main
 static const Color primary = Color(0xFF2196F3);
 static const Color secondary = Color.fromARGB(255, 30, 230, 1);
-static const Color secondary = Color.fromARGB(255, 155, 69, 182);
 
 //back
 static const Color bgPrimary = Color.fromARGB(255, 201, 25, 48);
